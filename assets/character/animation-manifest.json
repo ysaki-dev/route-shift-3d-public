@@ -1,0 +1,57 @@
+{
+  "glbSha256": "73e7ba58063c8de43f09a48a3e35ca5ed99d5c53570359fa61020b17af4846dc",
+  "bytes": 165316,
+  "bones": 20,
+  "vertices": 648,
+  "triangles": 1220,
+  "clips": {
+    "Idle": {
+      "seconds": 2.0,
+      "frames": 49,
+      "stride": null
+    },
+    "Walk": {
+      "seconds": 0.7083333333333334,
+      "frames": 18,
+      "stride": 1.2
+    },
+    "Run": {
+      "seconds": 0.625,
+      "frames": 16,
+      "stride": 2.0
+    },
+    "TurnLeft": {
+      "seconds": 0.6666666666666666,
+      "frames": 17,
+      "stride": null
+    },
+    "TurnRight": {
+      "seconds": 0.6666666666666666,
+      "frames": 17,
+      "stride": null
+    },
+    "Knife": {
+      "seconds": 0.4583333333333333,
+      "frames": 12,
+      "stride": null
+    },
+    "FlagRaise": {
+      "seconds": 2.0,
+      "frames": 49,
+      "stride": null
+    },
+    "Defeat": {
+      "seconds": 1.1666666666666667,
+      "frames": 29,
+      "stride": null
+    },
+    "Respawn": {
+      "seconds": 1.0,
+      "frames": 25,
+      "stride": null
+    }
+  },
+  "runtimeIK": false,
+  "feet": "Baked two-bone stance, distance-driven playback in game",
+  "source": "Original Blender MCP authored character"
+}

@@ -1,0 +1,343 @@
+{
+  "motions": [
+    {
+      "file": "Unarmed Idle 01.fbx",
+      "sha256": "013c132ad703aab2cf0bae997cb319e0f91b1d2661fba44c47e069fc31fd2629",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        349.0
+      ],
+      "duration": 11.6,
+      "sampleCount": 349,
+      "curves": 520,
+      "keys": 174520,
+      "rootDelta": [
+        -1.1626980267465115e-08,
+        -4.768480721395463e-09,
+        -2.384185791015625e-07
+      ],
+      "rootHeightRange": [
+        1.017659306526184,
+        1.0241153240203857
+      ],
+      "headHeightRange": [
+        1.56836998462677,
+        1.5800962448120117
+      ],
+      "loopMeanAngle": 0.027235254337518392,
+      "loopMaxAngle": 0.08713033498268793,
+      "motionHash": "24a8c214809758825538a75e40d2b619638b343c0908b794f9e1f40b001f625d",
+      "maxRootExcursion": 0.07458165710277291,
+      "selection": "採用",
+      "role": "待機",
+      "reason": "全区間。呼吸と小さな重心移動が自然で、接地と終端も安定。"
+    },
+    {
+      "file": "Smash.fbx",
+      "sha256": "da607a4e29e45333bda9b64c92e4b7013f5d833bb64085814c368d0644f9e931",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        91.0
+      ],
+      "duration": 3.0,
+      "sampleCount": 91,
+      "curves": 520,
+      "keys": 23920,
+      "rootDelta": [
+        -6.193295121192932e-08,
+        -7.450580596923828e-09,
+        1.7881393432617188e-07
+      ],
+      "rootHeightRange": [
+        0.8261465430259705,
+        0.9235450625419617
+      ],
+      "headHeightRange": [
+        1.3252445459365845,
+        1.4626001119613647
+      ],
+      "loopMeanAngle": 0.017418632795505727,
+      "loopMaxAngle": 0.07274192160370446,
+      "motionHash": "da8416def1327f6cf617f9d13b5d74dbccc54cba5782caed6d3ee1122ea82517",
+      "maxRootExcursion": 0.16322427102226014,
+      "selection": "採用・区間編集",
+      "role": "ナイフ",
+      "reason": "3秒全体から19〜42サンプルの斬り込みを約0.6秒へ編集。最初に腕が前へ出る時刻に判定を同期。"
+    },
+    {
+      "file": "Jog In Circle.fbx",
+      "sha256": "6c6fc48d1a4fdd218d59b496440e0438defd77882b5fcdcf7382d482dc37ae40",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        179.0
+      ],
+      "duration": 5.933333333333334,
+      "sampleCount": 179,
+      "curves": 520,
+      "keys": 91300,
+      "rootDelta": [
+        -1.5425030142068863e-08,
+        -8.940696716308594e-08,
+        0.0
+      ],
+      "rootHeightRange": [
+        0.8836533427238464,
+        1.0671511888504028
+      ],
+      "headHeightRange": [
+        1.4211891889572144,
+        1.609588861465454
+      ],
+      "loopMeanAngle": 0.01277036957212301,
+      "loopMaxAngle": 0.04669279782903319,
+      "motionHash": "2dfd0c11c0f1f12e29ac618bc5662a7a3cc652997d91875c88a0e763eaaf22e3",
+      "maxRootExcursion": 3.3633125950047873,
+      "selection": "不採用",
+      "role": "—",
+      "reason": "半径を描く大きなルート移動を含む。停止中の旋回に転用すると脚と身体の移動が一致しない。既存の旋回を使用。"
+    },
+    {
+      "file": "Standing Walk Right (1).fbx",
+      "sha256": "645ef53f45f62332f93684b2316feb5e99961a7dcb9d670738c79c0f51a47611",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        37.0
+      ],
+      "duration": 1.2,
+      "sampleCount": 37,
+      "curves": 520,
+      "keys": 12760,
+      "rootDelta": [
+        -6.437767297029495e-08,
+        5.2445102483034134e-08,
+        0.0
+      ],
+      "rootHeightRange": [
+        0.8633742332458496,
+        0.9234833121299744
+      ],
+      "headHeightRange": [
+        1.3231704235076904,
+        1.381646990776062
+      ],
+      "loopMeanAngle": 0.013193930799215624,
+      "loopMaxAngle": 0.04547230963067877,
+      "motionHash": "e0857830748e0daf1939dcbdfc6851dbd1b1da847457caba43d8b78d954050a9",
+      "maxRootExcursion": 0.06814275234226878,
+      "selection": "採用",
+      "role": "左横移動",
+      "reason": "実データはもう一方の左右反転。接地時の足の移動方向から左移動と確認。"
+    },
+    {
+      "file": "Standing Walk Right.fbx",
+      "sha256": "93daaa2a555214a8d4f6d2ebcfb64563e897a94e547f40f375d6624266841c5e",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        37.0
+      ],
+      "duration": 1.2,
+      "sampleCount": 37,
+      "curves": 520,
+      "keys": 12760,
+      "rootDelta": [
+        2.860906533896923e-08,
+        5.2445102483034134e-08,
+        0.0
+      ],
+      "rootHeightRange": [
+        0.8633805513381958,
+        0.9234911203384399
+      ],
+      "headHeightRange": [
+        1.3231767416000366,
+        1.381654977798462
+      ],
+      "loopMeanAngle": 0.01004841518081387,
+      "loopMaxAngle": 0.04395170874122817,
+      "motionHash": "c5e527f7577d5011c07f7b53a4cbf5f3e26009351d8b88622cfd6b241602d4d3",
+      "maxRootExcursion": 0.06814852277599416,
+      "selection": "採用",
+      "role": "右横移動",
+      "reason": "実データの接地時の足運びを確認し、右移動へ使用。"
+    },
+    {
+      "file": "Crouch Torch Walk Back.fbx",
+      "sha256": "47838230376e7e4c8c4e91d101205a3f93d7a90422dd96266dccb7aa44adaa4c",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        36.0
+      ],
+      "duration": 1.1666666666666667,
+      "sampleCount": 36,
+      "curves": 520,
+      "keys": 18720,
+      "rootDelta": [
+        -2.8640031814575195e-05,
+        -1.3096723705530167e-08,
+        -1.1920928955078125e-07
+      ],
+      "rootHeightRange": [
+        0.7617928981781006,
+        0.8318526744842529
+      ],
+      "headHeightRange": [
+        1.216073751449585,
+        1.257670283317566
+      ],
+      "loopMeanAngle": 0.023232672663839212,
+      "loopMaxAngle": 0.08599460060233638,
+      "motionHash": "db0781220b58bcf60c872081a3b62f57de82da4f3f618989293b17a3edcbaf6c",
+      "maxRootExcursion": 0.13654810868171355,
+      "selection": "不採用",
+      "role": "—",
+      "reason": "松明を掲げた片腕と屈み姿勢が、立った状態の警戒・ナイフ操作に合わない。既存の接地計算から立位の後退を作成。"
+    },
+    {
+      "file": "Standing Walk Forward.fbx",
+      "sha256": "fd60dd0856a5c1238095618e5683cb6b2f7d03e0cbe5815b7da51b86f94bd764",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        41.0
+      ],
+      "duration": 1.3333333333333333,
+      "sampleCount": 41,
+      "curves": 520,
+      "keys": 14920,
+      "rootDelta": [
+        -7.450580596923828e-09,
+        3.725290298461914e-08,
+        -1.7881393432617188e-07
+      ],
+      "rootHeightRange": [
+        0.9177983403205872,
+        1.0034559965133667
+      ],
+      "headHeightRange": [
+        1.4483609199523926,
+        1.529808759689331
+      ],
+      "loopMeanAngle": 0.019109304740673537,
+      "loopMaxAngle": 0.18929243678744787,
+      "motionHash": "29617d052c6c8c3f7fd57c2c3d6910ff3e3f417f60946ac67d84c85628be2f58",
+      "maxRootExcursion": 0.12097856737172533,
+      "selection": "採用・姿勢補正",
+      "role": "前進歩行",
+      "reason": "腰と肩の恒常的な横向きを補正し、進行方向・警戒方向へ身体が合うよう調整。"
+    },
+    {
+      "file": "Jog Forward.fbx",
+      "sha256": "c47a429053b7796125ca9704a4913f53c4452a5999d8ed5127b1d21339f8246b",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        26.0
+      ],
+      "duration": 0.8333333333333334,
+      "sampleCount": 26,
+      "curves": 520,
+      "keys": 13520,
+      "rootDelta": [
+        2.919405233114958e-06,
+        -2.598389983177185e-07,
+        2.4437904357910156e-06
+      ],
+      "rootHeightRange": [
+        0.9669985175132751,
+        1.0668208599090576
+      ],
+      "headHeightRange": [
+        1.5015161037445068,
+        1.6020255088806152
+      ],
+      "loopMeanAngle": 0.01366355000063619,
+      "loopMaxAngle": 0.06812691288331765,
+      "motionHash": "6c0d6f06e1f7d3edd2cf03108a3abdf19a926da446a87c824baab57141792c51",
+      "maxRootExcursion": 0.09467168811193633,
+      "selection": "採用",
+      "role": "道路の前進走行",
+      "reason": "足の持ち上げと腕振りが走行に適する。移動距離に同期し、空中区間も保持。"
+    },
+    {
+      "file": "Death From Right.fbx",
+      "sha256": "7671c266d384465eadf86542d999b5c8b8ad68fb9ca82c280e7840b661f946ed",
+      "bones": 65,
+      "meshes": 2,
+      "vertices": 24746,
+      "fps": 30.0,
+      "frames": [
+        1.0,
+        100.0
+      ],
+      "duration": 3.3,
+      "sampleCount": 100,
+      "curves": 520,
+      "keys": 37560,
+      "rootDelta": [
+        0.8955376744270325,
+        0.10386017709970474,
+        -0.7674558162689209
+      ],
+      "rootHeightRange": [
+        0.142445370554924,
+        0.9763137102127075
+      ],
+      "headHeightRange": [
+        0.2630375623703003,
+        1.5253852605819702
+      ],
+      "loopMeanAngle": 127.09453707030681,
+      "loopMaxAngle": 161.92698888821272,
+      "motionHash": "1998dbfd9b598f20ef284a8a12be001f99a16ffb6587d1f673a8d585f5ffac6a",
+      "maxRootExcursion": 1.2234822814927762,
+      "selection": "採用・区間編集",
+      "role": "撃破",
+      "reason": "崩れ落ちて横たわる一連の動作を約1.6秒へ編集。床への接地をベイクし、時計演出へ接続。"
+    }
+  ],
+  "fallbacks": [
+    "WalkBack",
+    "RunBack",
+    "TurnLeft",
+    "TurnRight",
+    "FlagRaise",
+    "Respawn"
+  ],
+  "appearanceUnchanged": {
+    "POSITION": true,
+    "NORMAL": true,
+    "COLOR_0": true,
+    "JOINTS_0": true,
+    "WEIGHTS_0": true
+  }
+}

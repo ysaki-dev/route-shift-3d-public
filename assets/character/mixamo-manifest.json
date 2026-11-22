@@ -1,0 +1,174 @@
+{
+  "bones": 20,
+  "triangles": 1220,
+  "clips": {
+    "Idle": {
+      "seconds": 11.583333333333334,
+      "source": "Unarmed Idle 01.fbx",
+      "frames": [
+        0,
+        348
+      ],
+      "loop": true,
+      "stride": null
+    },
+    "Walk": {
+      "seconds": 1.3333333333333333,
+      "source": "Standing Walk Forward.fbx",
+      "frames": [
+        0,
+        40
+      ],
+      "loop": true,
+      "stride": 1.3282939195632935
+    },
+    "Run": {
+      "seconds": 0.8333333333333334,
+      "source": "Jog Forward.fbx",
+      "frames": [
+        0,
+        25
+      ],
+      "loop": true,
+      "stride": 1.8552780151367188
+    },
+    "WalkLeft": {
+      "seconds": 1.2083333333333333,
+      "source": "Standing Walk Right (1).fbx",
+      "frames": [
+        0,
+        36
+      ],
+      "loop": true,
+      "stride": 1.6656436920166016
+    },
+    "WalkRight": {
+      "seconds": 1.2083333333333333,
+      "source": "Standing Walk Right.fbx",
+      "frames": [
+        0,
+        36
+      ],
+      "loop": true,
+      "stride": 1.669067919254303
+    },
+    "Knife": {
+      "seconds": 0.5833333333333334,
+      "source": "Smash.fbx",
+      "frames": [
+        19,
+        42
+      ],
+      "loop": false,
+      "stride": null
+    },
+    "Defeat": {
+      "seconds": 1.5833333333333333,
+      "source": "Death From Right.fbx",
+      "frames": [
+        5,
+        85
+      ],
+      "loop": false,
+      "stride": null
+    },
+    "TurnLeft": {
+      "seconds": 0.6666666666666666,
+      "source": "Existing baked animation",
+      "loop": true,
+      "stride": null
+    },
+    "TurnRight": {
+      "seconds": 0.6666666666666666,
+      "source": "Existing baked animation",
+      "loop": true,
+      "stride": null
+    },
+    "FlagRaise": {
+      "seconds": 2.0,
+      "source": "Existing baked animation",
+      "loop": true,
+      "stride": null
+    },
+    "Respawn": {
+      "seconds": 1.0,
+      "source": "Existing baked animation",
+      "loop": false,
+      "stride": null
+    },
+    "WalkBack": {
+      "seconds": 1,
+      "source": "Existing gait, backward contact bake",
+      "loop": true,
+      "stride": 1.2
+    },
+    "RunBack": {
+      "seconds": 1,
+      "source": "Existing gait, backward contact bake",
+      "loop": true,
+      "stride": 1.8
+    },
+    "KnifeUpper": {
+      "seconds": 0.5833333333333334,
+      "source": "Smash.fbx / moving upper-body variant",
+      "frames": [
+        19,
+        42
+      ],
+      "loop": false,
+      "stride": null
+    }
+  },
+  "sourceCount": 9,
+  "sideRunReuse": true,
+  "runtimeIK": false,
+  "boundsRadius": 2.8,
+  "knife": {
+    "impact": 0.3,
+    "duration": 0.6
+  },
+  "defeat": {
+    "fall": 1.6,
+    "clockAt": 1.95
+  },
+  "bytes": 198120,
+  "sha256": "6d4d95eac8ba60e122cb489f0c5b5eb0eb25f71be5bca9db2797a533a8b35f7d",
+  "optimization": {
+    "beforeKeys": 11506,
+    "afterKeys": 4564,
+    "rotationErrorDegrees": 0.18,
+    "positionErrorMetres": 0.00075,
+    "beforeBytes": 371832
+  },
+  "offlineContactCleanup": {
+    "Idle": {
+      "correctedFootFrames": 556,
+      "stride": 0
+    },
+    "Walk": {
+      "correctedFootFrames": 34,
+      "stride": 1.3282939195632935
+    },
+    "Run": {
+      "correctedFootFrames": 12,
+      "stride": 1.8552780151367188
+    },
+    "WalkLeft": {
+      "correctedFootFrames": 23,
+      "stride": 1.6656436920166016
+    },
+    "WalkRight": {
+      "correctedFootFrames": 25,
+      "stride": 1.669067919254303
+    },
+    "WalkBack": {
+      "correctedFootFrames": 28,
+      "stride": 1.2
+    },
+    "RunBack": {
+      "correctedFootFrames": 28,
+      "stride": 1.8
+    }
+  },
+  "movingAttackLayer": true
+}

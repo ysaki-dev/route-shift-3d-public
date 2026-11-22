@@ -1,0 +1,62 @@
+{
+  "version": "0.3",
+  "generator": "Blender MCP / Blender 5.2.3 LTS",
+  "dimensions": [
+    150,
+    100
+  ],
+  "solidShapes": 153,
+  "trunks": 683,
+  "vertexAOBaked": true,
+  "realtimeShadows": false,
+  "models": {
+    "details.glb": {
+      "bytes": 454556,
+      "sha256": "df4a1ba987f168f0cb637bb19125de97af9fece3815d022ad95e9b1208c30fe6",
+      "triangles": 4616,
+      "embeddedImages": true
+    },
+    "grass.glb": {
+      "bytes": 49480,
+      "sha256": "69150685e9b7791979db1f4d241851df6eb92aafee208a6fb539d475cb4eba7b",
+      "triangles": 8,
+      "embeddedImages": true
+    },
+    "obstacles.glb": {
+      "bytes": 2404556,
+      "sha256": "a9c81a8bbf4709b454054ccc50bbc71e584326d35039d5e1d5567fbb818a4a6e",
+      "triangles": 22324,
+      "embeddedImages": true
+    },
+    "shrub.glb": {
+      "bytes": 166948,
+      "sha256": "e191c9c96211e2a27f6e9de1dddc78efbeffdffd97580c683e98ad8f0fc02f15",
+      "triangles": 24,
+      "embeddedImages": true
+    },
+    "terrain.glb": {
+      "bytes": 3501856,
+      "sha256": "ee099ac542789b25e54488f618aca696c98c1a56909e431e7ccfa8b57eb8f3a8",
+      "triangles": 30000,
+      "embeddedImages": true
+    },
+    "tree-lod.glb": {
+      "bytes": 819072,
+      "sha256": "e7c5cc76fe982fe20db9ee4d62493478699984e03688e7057c4424458208427d",
+      "triangles": 266,
+      "embeddedImages": true
+    },
+    "tree.glb": {
+      "bytes": 828708,
+      "sha256": "23eea48e4963f42d1890da0a7692f7ffce5983e60544a330f3f9f07c801713b8",
+      "triangles": 378,
+      "embeddedImages": true
+    },
+    "water.glb": {
+      "bytes": 84208,
+      "sha256": "5159040e67fcfc5e55cd998217426ae19150f5841f43e599cfc477008675d830",
+      "triangles": 312,
+      "embeddedImages": true
+    }
+  }
+}

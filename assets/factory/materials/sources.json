@@ -1,0 +1,111 @@
+{
+  "license": "CC0-1.0",
+  "licensePage": "https://polyhaven.com/license",
+  "atlas": {
+    "size": 2048,
+    "tileSize": 1024,
+    "gutter": 64,
+    "contentSize": 896
+  },
+  "layout": [
+    "green_metal_rust",
+    "rusty_metal_04",
+    "concrete_wall_003",
+    "hangar_concrete_floor"
+  ],
+  "sources": [
+    {
+      "id": "green_metal_rust",
+      "title": "Green Metal Rust",
+      "source": "https://polyhaven.com/a/green_metal_rust",
+      "license": "CC0-1.0",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "files": {
+        "base": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/green_metal_rust/green_metal_rust_diff_1k.jpg",
+          "sha256": "4509ab0cb1cf6bf9b9f970450a41f83ebd9bff178006deae568ff34b404856fc"
+        },
+        "normal": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/green_metal_rust/green_metal_rust_nor_gl_1k.jpg",
+          "sha256": "8ecb28b0ea4026b740ce492e3f606f61a76bdce1f78cb2e29287bf9a56c54a80"
+        },
+        "arm": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/green_metal_rust/green_metal_rust_arm_1k.jpg",
+          "sha256": "c1a48da0c5bba8f490497bbedadf4cb21d5387de8b3d49988c065e4b16805434"
+        }
+      }
+    },
+    {
+      "id": "rusty_metal_04",
+      "title": "Rusty Metal 04",
+      "source": "https://polyhaven.com/a/rusty_metal_04",
+      "license": "CC0-1.0",
+      "authors": {
+        "Amal Kumar": "All"
+      },
+      "files": {
+        "base": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_04/rusty_metal_04_diff_1k.jpg",
+          "sha256": "37c6757c5b6b2229f61423c7e5013f970e4dafb48070d35f53ed6d08958ed288"
+        },
+        "normal": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_04/rusty_metal_04_nor_gl_1k.jpg",
+          "sha256": "9c432bee334e65e73ff0b20676dd3f0efbed3f91d261a13dc03b9c8c1a4f4eec"
+        },
+        "arm": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_04/rusty_metal_04_arm_1k.jpg",
+          "sha256": "b040e35ed5e885d04b465761782a5d0ebd241175f562821f8fba35a12dccb789"
+        }
+      }
+    },
+    {
+      "id": "concrete_wall_003",
+      "title": "Concrete Wall 003",
+      "source": "https://polyhaven.com/a/concrete_wall_003",
+      "license": "CC0-1.0",
+      "authors": {
+        "Dimitrios Savva": "Photography",
+        "Rico Cilliers": "Processing"
+      },
+      "files": {
+        "base": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_003/concrete_wall_003_diff_1k.jpg",
+          "sha256": "7d1d4b9f5ed1aa3e6385ef3232e26e123a3dac5f364e44f9f34784e39bf8d6bb"
+        },
+        "normal": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_003/concrete_wall_003_nor_gl_1k.jpg",
+          "sha256": "9ab358a9d51aa2a361103cf6587ee0b598fa57ad8f38b40cccc8015b867938ac"
+        },
+        "arm": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_003/concrete_wall_003_arm_1k.jpg",
+          "sha256": "55987cae8c5d6eb0bb09bf4cf65d45267a747294eb63b291757501e1664af51f"
+        }
+      }
+    },
+    {
+      "id": "hangar_concrete_floor",
+      "title": "Hangar Concrete Floor",
+      "source": "https://polyhaven.com/a/hangar_concrete_floor",
+      "license": "CC0-1.0",
+      "authors": {
+        "Dimitrios Savva": "All"
+      },
+      "files": {
+        "base": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hangar_concrete_floor/hangar_concrete_floor_diff_1k.jpg",
+          "sha256": "8c365cc65bc3026045c4e3ecba9642cbe0bee1cf705edafe4a8fed5b78c08a4d"
+        },
+        "normal": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hangar_concrete_floor/hangar_concrete_floor_nor_gl_1k.jpg",
+          "sha256": "b1fc3146e62c5d5cd7859eb0d8174480e1ea87c80c92ba4364229547d1f8dda7"
+        },
+        "arm": {
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hangar_concrete_floor/hangar_concrete_floor_arm_1k.jpg",
+          "sha256": "1ab24eea5a341ee35e19e766600b75bf06ddd03f2dc4d76633795c5a6b10a660"
+        }
+      }
+    }
+  ]
+}
